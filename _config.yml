@@ -1,5 +1,5 @@
 ---
-title: Composers
+title: Magic Einundzwanzig Timeline
 timezone: Europe/Berlin
 collections:
   posts:
@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
-baseurl: "/jekyll-timeline"
-url: http://himsel.me
+description: Magic Einundzwanzig Timeline
+baseurl: "/timeline"
+url: https://quilloughbee.github.io
 color: "#f2f2f2"

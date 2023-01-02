@@ -16,7 +16,7 @@ position:relative
 }
 .item:before,.last-item:after {
 background:#fff;
-border:8px solid #000;
+border:8px solid #F7931A;
 border-radius:50%;
 width:40px;
 height:40px;
@@ -29,7 +29,7 @@ left:calc(2% - 36px)
 }
 .vertical-line {
 width:8px;
-background-color:#000;
+background-color:#F7931A;
 position:absolute;
 left:calc(2% - 5px);
 top:0;
